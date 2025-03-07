@@ -1,5 +1,5 @@
 # praktikum-adp
 
-Nama : Dinda Rahma Mulyana
-NIM : 2410431034
-Shift : 2
+Nama : Dinda Rahma Mulyana \n
+NIM : 2410431034 \n
+Shift : 2 \n
